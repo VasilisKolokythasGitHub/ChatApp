@@ -1,0 +1,2 @@
+C:\Users\android386\source\repos\ChatApp\ChatApp\obj\x64\Debug\net7.0-windows\App.g.cs
+C:\Users\android386\source\repos\ChatApp\ChatApp\obj\x64\Debug\net7.0-windows\ChatClient_MarkupCompile.cache
